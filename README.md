@@ -1,4 +1,4 @@
 # tailwindcss-practice
 Studying tailwindcss
 
-I am following a youtub tutorial fzrom Travervesy media
+I am following a youtube tutorial fzrom Travervesy media
